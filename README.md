@@ -1,2 +1,2 @@
-# hospital
+# GestionCitas
 Aplicación gestión citas médicas
